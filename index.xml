@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zachary Ranes Blog</title>
+    <link>https://ZacharyRanes.github.io/</link>
+    <description>Recent content on Zachary Ranes Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ZacharyRanes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog_Init</title>
+      <link>https://ZacharyRanes.github.io/blog_init/</link>
+      <pubDate>Wed, 24 Feb 2021 00:02:12 -0500</pubDate>
+      
+      <guid>https://ZacharyRanes.github.io/blog_init/</guid>
+      <description>Setting up this blog Started this blog to practice my writing skills and to keep track of projects I work on.
+I am using HUGO to create this blog.</description>
+    </item>
+    
+  </channel>
+</rss>
